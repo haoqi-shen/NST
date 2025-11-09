@@ -1,0 +1,23 @@
+{
+  "name": "nst",
+  "version": "1.0.0",
+  "description": "**Reimagine your photos with AI-powered style transfer.**   Turns everyday images into artwork using deep neural style transfer and controllable aesthetic blending.   > _Status: WIP — prototype in progress._",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
+    "vite": "^7.2.2"
+  }
+}
